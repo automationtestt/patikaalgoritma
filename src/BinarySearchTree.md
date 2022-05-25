@@ -10,4 +10,4 @@
 
 **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.**
 
-![Binary Search Tree](C:\Users\grafi\AndroidStudioProjects\patikaalgoritma\src\Picture\BinarySearchTree.png)
+![Binary Search Tree](https://github.com/automationtestt/patikaalgoritma/blob/master/src/Picture/BinarySearchTree.png?raw=true)
